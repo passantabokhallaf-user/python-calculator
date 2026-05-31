@@ -4,13 +4,13 @@ A command-line calculator developed in Python.
 
 Features:
 
- Addition
- Subtraction
- Multiplication
- Division
- Powers
- Square roots
- Error handling for invalid operations
+ Addition, 
+  Subtraction, 
+  Multiplication,
+  Division,
+  Powers,
+  Square roots,
+ Error handling for invalid operations.
 
 Technologies Used:
 
